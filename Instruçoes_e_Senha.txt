@@ -1,0 +1,5 @@
+Caso o rom esteje com extesao .rar extraia e passe para .zip
+
+se pedir senha para extrair use:
+
+www.roxdownload.cjb.net
